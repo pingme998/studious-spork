@@ -1,0 +1,33 @@
+curl 'https://cse.google.com/cse/element/v1?rsz=filtered_cse&num=10&hl=en&source=gcsc&gss=.com&cselibv=b54a745638da8bbb&cx=c86a07302d1bb07ab&q=mega.nz%20jon&safe=off&cse_tok=AJvRUv3rJGIA8ChH27-GTXcNfnRx:1626670826099&sort=&exp=csqr,cc&oq=mega.nz%20jon&gs_l=partner-generic.12...27084.29747.3.37724.4.4.0.0.0.0.404.1013.0j1j2j0j1.4.0.csems%2Cnrl%3D13...0.2662j2929298j4...1.34.partner-generic..11.0.0.m6oZ62lUXWg&callback=google.search.cse.api18678' \
+  -H 'authority: cse.google.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'x-client-data: CI7lygE=' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://cse.google.com/cse?cx=c86a07302d1bb07ab' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: SID=_QfQOiZM-C8YdLHVwPFBOUNABexfFE3JgmKYYWWBZ7NRoHywxbmkmHx4E9OjUbt0l04fgQ.; __Secure-1PSID=_QfQOiZM-C8YdLHVwPFBOUNABexfFE3JgmKYYWWBZ7NRoHywxrZQ5tO_LqsI9V3OJmLnmA.; __Secure-3PSID=_QfQOiZM-C8YdLHVwPFBOUNABexfFE3JgmKYYWWBZ7NRoHywoRVcjwrqJJqkjjqYlm7BTQ.; HSID=AdVUNKMAkpnzjxCfT; SSID=AyBv8Nv_u-BwLJbGE; APISID=CqzDdLQ_NDMqLzKg/AIGNUCzT3ttZOh_n8; SAPISID=JDB0xEDKIaqfWJD2/AqCHzX_oqKtY9ObzE; __Secure-1PAPISID=JDB0xEDKIaqfWJD2/AqCHzX_oqKtY9ObzE; __Secure-3PAPISID=JDB0xEDKIaqfWJD2/AqCHzX_oqKtY9ObzE; SEARCH_SAMESITE=CgQI_pIB; NID=219=sIyQTaRdLNIaA1012U0WIivjadIqnLWMBZl15DzAGr3l-iLFZW3S7vh2VtfCp6g8zNxxCAbP_9R5U_qgt1_Fiehwho5sOhUkDkpUhKQbL2HDbTH-soXitkwDEQ2lt96egIXlt4QQNAW2ydtHkKMh7DfFfApz4liOyeYUIHrMg48YpkFCwghHQbDmTLFaTNQECbmCXAhLcNQBr3hINdz69Ohb5j4w5AKhdCjHT47n5xDe67LTfGkx; 1P_JAR=2021-07-19-05; SIDCC=AJi4QfG5MHJSu7ocO_GMo0gl_j2EJ1NWsyJVpHEnOjwyDB8ZWhoqekULhoX6lfYWRUSXESoXcHc; __Secure-3PSIDCC=AJi4QfFUtdt4xmTAH3X9_dq1fenMajbj_l_p1GsS1vabykOoztvJADDlmz7XorHDOh7fwrx0TA' \
+  --compressed ;
+curl 'https://cse.google.com/cse_v2/ads?adsafe=low&cpp=0&cx=c86a07302d1bb07ab&hl=en&pcsa=true&client=google-coop&q=mega.nz%20jon&r=m&type=0&oe=UTF-8&ie=UTF-8&fexp=20606%2C17300494%2C17300497%2C17300756%2C17300759&format=p4&ad=p4&nocache=3411626671399941&num=0&output=uds_ads_only&source=gcsc&v=3&adext=as1%2Csr1&bsl=10&pac=0&u_his=2&u_tz=0&dt=1626671399950&u_w=1355&u_h=677&biw=617&bih=523&psw=601&psh=1467&frm=0&uio=sl1sr1-&inames=master-6&jsv=14995&rurl=https%3A%2F%2Fcse.google.com%2Fcse%3Fcx%3Dc86a07302d1bb07ab' \
+  -H 'authority: cse.google.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'x-client-data: CI7lygE=' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://cse.google.com/cse?cx=c86a07302d1bb07ab' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: SID=_QfQOiZM-C8YdLHVwPFBOUNABexfFE3JgmKYYWWBZ7NRoHywxbmkmHx4E9OjUbt0l04fgQ.; __Secure-1PSID=_QfQOiZM-C8YdLHVwPFBOUNABexfFE3JgmKYYWWBZ7NRoHywxrZQ5tO_LqsI9V3OJmLnmA.; __Secure-3PSID=_QfQOiZM-C8YdLHVwPFBOUNABexfFE3JgmKYYWWBZ7NRoHywoRVcjwrqJJqkjjqYlm7BTQ.; HSID=AdVUNKMAkpnzjxCfT; SSID=AyBv8Nv_u-BwLJbGE; APISID=CqzDdLQ_NDMqLzKg/AIGNUCzT3ttZOh_n8; SAPISID=JDB0xEDKIaqfWJD2/AqCHzX_oqKtY9ObzE; __Secure-1PAPISID=JDB0xEDKIaqfWJD2/AqCHzX_oqKtY9ObzE; __Secure-3PAPISID=JDB0xEDKIaqfWJD2/AqCHzX_oqKtY9ObzE; SEARCH_SAMESITE=CgQI_pIB; NID=219=sIyQTaRdLNIaA1012U0WIivjadIqnLWMBZl15DzAGr3l-iLFZW3S7vh2VtfCp6g8zNxxCAbP_9R5U_qgt1_Fiehwho5sOhUkDkpUhKQbL2HDbTH-soXitkwDEQ2lt96egIXlt4QQNAW2ydtHkKMh7DfFfApz4liOyeYUIHrMg48YpkFCwghHQbDmTLFaTNQECbmCXAhLcNQBr3hINdz69Ohb5j4w5AKhdCjHT47n5xDe67LTfGkx; 1P_JAR=2021-07-19-05; SIDCC=AJi4QfG5MHJSu7ocO_GMo0gl_j2EJ1NWsyJVpHEnOjwyDB8ZWhoqekULhoX6lfYWRUSXESoXcHc; __Secure-3PSIDCC=AJi4QfFUtdt4xmTAH3X9_dq1fenMajbj_l_p1GsS1vabykOoztvJADDlmz7XorHDOh7fwrx0TA' \
+  --compressed ;
+curl 'https://cse.google.com/adsense/search/async-ads.js' \
+  -H 'Referer: https://cse.google.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://kajfghlhfkcocafkcjlajldicbikpgnp/catcher.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed
